@@ -1,7 +1,8 @@
+
 # uniapp
 
 A new Flutter project.
-
+-nu merge, mai trebuie lucrat la ea, versiunea flutter folosit pentru crearea ei este una veche si nu am reusit sa-l fixam
 ## Getting Started
 
 This project is a starting point for a Flutter application.
